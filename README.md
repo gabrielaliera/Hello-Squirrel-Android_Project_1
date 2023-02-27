@@ -39,7 +39,7 @@ GIF created with <a href="https://www.cockos.com/licecap/">LICEcap.</a>
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+I learned how to manage colors and strings in an Android application using colors.xml and string.xml. In addition, I learned to import images using Resource Manager.
 
 ## License
 
